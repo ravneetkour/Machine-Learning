@@ -278,10 +278,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ravneet Kour** - ML Enthusiast & Developer
 
-- 📧 Email: [your.email@example.com](mailto:ravneetkaur62429@gmail.com)
+- 📧 Email: [mailto:ravneetkaur62429@gmail.com](mailto:ravneetkaur62429@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ravneet-kour](https://linkedin.com/in/ravneet-kour-nagi)
 - 🐙 GitHub: [@ravneetkour](https://github.com/ravneetkour)
-- 🌐 Portfolio: [your-portfolio-website.com](https://ravneetkour.github.io)
+- 🌐 Portfolio: [ravneetkour.github.io](https://ravneetkour.github.io)
 
 ---
 
